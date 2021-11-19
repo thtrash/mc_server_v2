@@ -1,0 +1,7 @@
+screen -r minecraft
+>su minecraft
+>ex strgA -> strgD
+
+s/s
+cd /home/minecraft
+./start / stop.sh
